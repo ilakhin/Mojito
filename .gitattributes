@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+# Fonts
+*.[tT][tT][fF] filter=lfs diff=lfs merge=lfs -text
+
+# Images
+*.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
