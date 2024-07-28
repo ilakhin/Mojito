@@ -1,0 +1,20 @@
+{
+  "name": "com.il.mojito",
+  "version": "0.1.0",
+  "description": "Unity debug tools.",
+  "displayName": "Mojito",
+  "author": {
+    "name": "Iaroslav Lakhin",
+    "email": "iaroslav.lakhin@gmail.com"
+  },
+  "keywords": [
+    "Cheats",
+    "Debug",
+    "Tool"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.ugui": "1.0.0"
+  }
+}
