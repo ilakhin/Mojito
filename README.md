@@ -1,2 +1,2 @@
 # Mojito
-Unity debug tools.
+Debug tools for Unity.
